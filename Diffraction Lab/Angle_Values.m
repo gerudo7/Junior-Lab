@@ -1,0 +1,1 @@
+mv0_04THETA = mean(thetaV0_04)
